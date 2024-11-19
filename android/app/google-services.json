@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "864193385526",
+    "project_id": "json-realtime-reader",
+    "storage_bucket": "json-realtime-reader.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864193385526:android:850b8722983f79379a3497",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4OiVFQE_RPx7Tqqk6nLCTLGJpnmNz1_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864193385526:android:92d763fcc32f8b439a3497",
+        "android_client_info": {
+          "package_name": "com.example.mood_today"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4OiVFQE_RPx7Tqqk6nLCTLGJpnmNz1_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

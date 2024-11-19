@@ -1,0 +1,30 @@
+{
+  "flutter": {
+    "platforms": {
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "json-realtime-reader",
+          "configurations": {
+            "android": "1:864193385526:android:850b8722983f79379a3497",
+            "ios": "1:864193385526:ios:e51ec7c560591b3a9a3497",
+            "web": "1:864193385526:web:7806b8ab825c5e939a3497"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

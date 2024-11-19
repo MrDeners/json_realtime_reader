@@ -1,0 +1,16 @@
+{
+  "json": "JSON",
+  "realtime": "Realtime",
+  "undefined": "Неизвестный тип",
+  "status": "Статус:",
+  "created": "Создано:",
+  "id": "ID:",
+  "delete": "Удалить",
+  "noTasks": "У вас нет задач",
+  "taskStatuses": {
+    "inProgress": "В процессе",
+    "failed": "Завершено неуспешно",
+    "done": "Выболнено корректно",
+    "deleted": "Удалено"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "json": "JSON",
+  "realtime": "Realtime",
+  "undefined": "Undefined type",
+  "status": "Status:",
+  "created": "Created:",
+  "id": "ID:",
+  "delete": "Delete",
+  "noTasks": "You have no tasks",
+  "taskStatuses": {
+    "inProgress": "In progress",
+    "failed": "Failed",
+    "done": "Done",
+    "deleted": "Deleted"
+  }
+}
